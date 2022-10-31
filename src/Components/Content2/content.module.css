@@ -1,0 +1,25 @@
+.divImg {
+    display: flex;
+    width: 63%;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.divMain {
+    padding-top: 5%;
+}
+.divImg img {
+    width: 450px;
+}
+.img1 {
+    margin: 1%;
+    width: 450px;
+}
+.text {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.text1 {
+    font-weight: 700;
+}

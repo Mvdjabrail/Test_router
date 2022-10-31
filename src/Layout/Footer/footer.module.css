@@ -1,0 +1,38 @@
+footer {
+    background-color: #f1f1f1;
+    padding-bottom: 0.9%;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  margin: auto;
+}
+
+.News {
+  padding: 0;
+  font-family: "Itim";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 38px;
+  border-bottom: 1px solid black;
+  width: auto;
+  display: flex;
+  text-align: center;
+}
+.News a {
+  text-decoration: none;
+  color: black;
+}
+
+.divImg {
+    width: 8%;
+    display: flex;
+    justify-content: space-between;
+}
+.data {
+    font-weight: 600;
+    font-size: 1.1em;
+}
